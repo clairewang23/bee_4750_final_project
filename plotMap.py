@@ -12,3 +12,7 @@ ax.set_xlim(-130, -55)
 ax.set_ylim(24, 62)
 
 # add code to plot the coordinates of data points below. Double check coordinate system consistency!
+
+# EXAMPLE CODE (commented out)
+# df.plot.scatter(x="longitude", y="latitude", ax=ax, color="red", alpha=0.5)
+# plt.title("Geographical Distribution of Survey Respondents")
